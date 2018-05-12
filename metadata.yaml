@@ -1,0 +1,47 @@
+_repo: Vitus-Bering--the-Discoverer-of-Bering-Strait_46032
+_version: 0.1.0
+alternative_title: Vitus J. Bering og de russiske Opdagelsesrejser fra 1725-43. English
+contributor:
+  author_of_introduction:
+    agent_name: Schwatka, Frederick
+    aliases:
+    - Schwatka, Lieutenant (Frederick)
+    - Schwatka, Fred
+    - Schwatka, F. (Frederick)
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '38273'
+    url: http://www.gutenberg.org/2009/agents/38273
+  translator:
+    agent_name: Olsen, Julius E.
+    gutenberg_agent_id: '43583'
+    url: http://www.gutenberg.org/2009/agents/43583
+covers:
+- cover_type: archival
+  image_path: 46032-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lauridsen, Peter
+    alias: Lauridsen, P. (Peter)
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '43582'
+    url: http://www.gutenberg.org/2009/agents/43582
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46032'
+  lccn: a12001465
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bering, Vitus Jonassen, 1681-1741'
+- !lcsh 'Bering Strait -- Discovery and exploration'
+- !lcsh 'Kamchatskaia ekspeditsiia (1st : 1725-1730)'
+- !lcsh 'Bering Island (Russia) -- Discovery and exploration'
+- !lcc 'G'
+title: 'Vitus Bering: the Discoverer of Bering Strait'
+url: http://www.gutenberg.org/ebooks/46032
